@@ -11,6 +11,7 @@ mkdir build
 cd build
 cmake ..
 msbuild.exe .\hello_test.vcxproj
+(or make)
 ```
 
 Actual result:
